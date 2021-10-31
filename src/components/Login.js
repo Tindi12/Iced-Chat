@@ -27,11 +27,7 @@ const Login = () => {
                     <FacebookOutlined /> Sign in with Facebook
                 </div>
             </div>
-            <div class="container">
-                <h5>DEVELOPED BY TINDI ONYANGO</h5>
-                <strong><p>CEO, Senior Software Engineer, Iced.Inc</p></strong>
             </div>
-        </div>
     );
 }
 
