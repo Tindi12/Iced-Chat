@@ -7,4 +7,7 @@ and reactjs as the main lang.
 published on Netlify you can test it out here:
 
 https://icedchat.netlify.app/
-![Image of test](https://github.com/Tindi12/Iced-Chat/blob/main/public/pic.png)
+
+![Image of test1](https://github.com/Tindi12/Iced-Chat/blob/main/public/pic%202.png)
+![Image of test2](https://github.com/Tindi12/Iced-Chat/blob/main/public/pic.png)
+![image of test3](https://github.com/Tindi12/Iced-Chat/blob/main/public/pic%203.png)
