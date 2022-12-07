@@ -1,5 +1,5 @@
 # Iced-Chat
-<p>(currently down to useroverload and insufficient funds for servers)</p>
+<p>(currently down to user-overload and insufficient funds for servers)</p>
 A full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
 
 It uses Firebase(from google) for auth.
